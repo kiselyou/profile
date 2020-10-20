@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "oimo": "^1.0.9",
     "three": "^0.112.1",
     "vue": "^2.6.10"
